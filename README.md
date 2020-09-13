@@ -1,10 +1,10 @@
 ### Hi there 👋, My name is Monis Ali Qureshi
 #### I am a Computer Engineer
-Hi I'm student of Computer Engineering with field of interest of Computer Vision and Artificial Intelligence.
+Hi I'm Computer Engineer with field of interest of Computer Vision and Artificial Intelligence.
 I have done almost 6-7 basic projects and CNC Robot is one of best project among them. Also done a of "Facial Expressions Recognition" using Deep Learning.
 Currently I am working on a project named "Stress Quantification System"​ which is actually a software based system design in Python & Machine Learning.
 
-Portfolio link : http://www.monisaliqureshi.tech/
+Portfolio link : http://portfolio.monisaliqureshi.tech/
 
 I got 1st position from AIR University at AIR Tech'18
 I got 2nd position from UET Taxila at TRAC Tech'19 .
