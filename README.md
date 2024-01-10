@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Monis Ali Qureshi
 #### I am a Computer Engineer
 
-Portfolio link : https://monisaliqureshi.github.io/
+Portfolio link : https://portfolio.monisali.me
 
 Skills: Face Recognition | Computer Vision | MongoDB | Docker | FastAPI | Data Science | Scrapping | Network Security | Micro-Controller | 
 
