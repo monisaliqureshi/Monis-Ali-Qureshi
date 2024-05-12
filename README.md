@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Monis Ali Qureshi
+### Hi there 👋, My name is Monis Ali
 #### I am a Computer Engineer
 
 Portfolio link : https://portfolio.monisali.me
